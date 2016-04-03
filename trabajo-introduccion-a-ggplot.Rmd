@@ -6,7 +6,6 @@ Nombre:
 
 En este trabajo, tenéis que completar algunos de los bloques de código para contestar a las preguntas que van apareciendo en el documento. 
 
-
 Empezaremos por cargar los paquetes "lubridate" (para manipular fechas), "dplyr"
 (para manipular data.frames) y "ggplot2" (para las gráficas).
 
