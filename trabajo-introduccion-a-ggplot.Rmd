@@ -11,7 +11,9 @@ Empezaremos por cargar los paquetes "lubridate" (para manipular fechas), "dplyr"
 
 ```{r, message = FALSE}
 ## completar aquí
-
+library("dplyr")
+library("ggplot2")
+library("lubridate")
 ```
 
 
