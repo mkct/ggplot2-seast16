@@ -25,7 +25,7 @@ Lo importamos en un data.frame que llamaremos **vivienda**
 
 ```{r}
 ### insertar el código para importar:
-
+## vivienda
 ```
 La descripción del conjunto es la siguiente:
 
